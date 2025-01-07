@@ -109,6 +109,15 @@ Follow these steps to set up and run the project locally:
 ### Book Details (Borrow or Return)
 ![borrow or return](https://github.com/Coder-Stark/Library_Management_System/blob/master/borrow%20.png?raw=true)
 
+### MongoDB Collections
+![collections](https://github.com/Coder-Stark/Library_Management_System/blob/master/mongo%20DB%20collections.png?raw=true)
+
+### Books DataBase
+![books db](https://github.com/Coder-Stark/Library_Management_System/blob/master/books%20database.png?raw=true)
+
+### Users DataBase
+![users db](https://github.com/Coder-Stark/Library_Management_System/blob/master/users%20database.png?raw=true)
+
 
 ---
 
